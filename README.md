@@ -49,8 +49,7 @@ python run_clipdraw.py \
     --phase-optim-reset
 ```
 
-<a href="https://replicate.ai/kvfrans/clipdraw"><img src="https://img.shields.io/static/v1?label=Replicate&message=Demo and Docker Image&color=blue"></a>
-
+## Copyright
 
 ```
 Copyright 2022 Kevin Frans
