@@ -10,7 +10,7 @@ This repo is based on presents CLIPDraw ([paper](https://arxiv.org/abs/2106.1484
 
 For example, the gif below was created using a mix of an MSE loss to a reference photo and CLIP loss to a text caption:
 
-<img src="assets/progress.gif" alt="Website example" width="100%" />
+<img src="assets/progress.gif" alt="Website example" width="640" />
 
 This was created using the following:
 
@@ -26,7 +26,7 @@ And the text prompts **"a beautiful sunset" "hubble space telescope photo showin
 - `assets/prof.png` -- reference photo
 - `assets/prof-mask.png`
 - `assets/prof-nonmask.png`
-- `assets/progress.mp4`
+- `assets/progress.gif`
 
 To rerun the same prompt schedule:
 
